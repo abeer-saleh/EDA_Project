@@ -32,12 +32,17 @@ The dataset obtained from the New York subway Metropolitan Transportation Author
   * ENTRIES = The comulative entry register value for a device
   * EXITS = The cumulative exit register value for a device
 
+
+* # of features/columns = 
+* # of rows = 
+* type for each feature/columns
+
   ### Scope
   
-  
-  From August 14 to 28 of 2021
-  
-  We used the most recent dataset to be up-to-date
+  Our scope was the most recent three months from August 14 to ??  of 2021, we used the most recent datasets to take an apropriate decision and be up-to-date
+  *
+  *
+  *
 
 ## Tools
 
