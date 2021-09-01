@@ -14,4 +14,18 @@ The National Information Center (NIC) is providing the latest technology service
   ###Scope
   
 
+## Tools
+
+** Technologies:
+  ** SQL 
+  ** SQLite
+  ** Python
+  ** Jupyter Notebook
+  
+** Libraries:
+  ** NumPy
+  ** Pandas
+  ** Matplotlib
+  
+
 ## Communication
