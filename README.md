@@ -33,9 +33,9 @@ The dataset obtained from the New York subway Metropolitan Transportation Author
   * EXITS = The cumulative exit register value for a device
 
 
-* # of features/columns = 
-* # of rows = 
-* type for each feature/columns
+ * # of features/columns = 
+ * # of rows = 
+ * type for each feature/columns
 
   ### Scope
   
