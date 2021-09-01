@@ -8,14 +8,28 @@
 The National Information Center (NIC) is providing the latest technology services and digital solutions for government agencies in the kingdom of Saudi Arabia to enhance the efficiency and safety of the government digital assets according to the best global standards. The NIC is aiming to advance the various Saudi sectors as the first provider of insights and analyses based on artificial intelligence technology and as one of the three affiliated agencies of the Saudi Data and Artificial Intelligence Authority (SDAIA).
 
 
-The significance provided from this Exploratory Data Analysis which as follows:
+The significance provided from this Exploratory Data Analysis which is as follows:
 * Reducing cost
 * Save effort
-* Support decision making
+* Support Decision Making
+* Better Customer Service
 
 ## Data Description
+The dataset was obtain from the New York subway MTA 
 
+* Features Description:
 
+  * C/A = Control Area (e.g., A002)
+  * UNIT = Remote Unit for a station (e.g., R051)
+  * SCP = Subunit Channel Position represents an specific address for a device (e.g., 02-00-00)
+  * STATION = Represents the station name the device is located at
+  * LINENAME = Represents all train lines that can be boarded at this station
+  * DIVISION = Represents the Line originally the station belonged to BMT,IRT, or IND
+  * DATE = Represents the date (MM-DD-YY)
+  * TIME = Represents the time (hh:mm:ss) for a scheduled audit event
+  * DESC = Represent the "REGULAR" scheduled audit event (Normally occurs every 4 hours)
+  * ENTRIES = The comulative entry register value for a device
+  * EXITS = The cumulative exit register value for a device
 
   ###Scope
   
