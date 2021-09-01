@@ -1,7 +1,7 @@
 # Project 01: Exploratory Data Analysis (EDA)
 
-### Name: Abeer Alruwayti
-### E-mail: Abeeralruwaitea@gmail.com
+#### Name: Abeer Alruwayti
+#### E-mail: Abeeralruwaitea@gmail.com
 
 ## Background
 
@@ -9,9 +9,9 @@ The National Information Center (NIC) is providing the latest technology service
 
 
 The significance provided from this Exploratory Data Analysis which as follows:
-* reducing cost
-* save effort
-* support decision making
+* Reducing cost
+* Save effort
+* Support decision making
 
 ## Data Description
 
