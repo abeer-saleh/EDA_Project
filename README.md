@@ -15,7 +15,7 @@ The significance provided from this Exploratory Data Analysis which is as follow
 * Better Customer Service
 
 ## Data Description
-The dataset was obtain from the New York subway MTA 
+The dataset  obtained from the New York subway MTA (http://web.mta.info/developers/turnstile.html.)
 
 * Features Description:
 
