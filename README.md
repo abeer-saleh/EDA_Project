@@ -33,6 +33,12 @@ The dataset  obtained from the New York subway MTA (http://web.mta.info/develope
 
   ### Scope
   
+  
+  Saturday, August 28, 2021
+  Saturday, August 21, 2021
+  Saturday, August 14, 2021
+  
+  We used the most recent dataset to be up-to-date
 
 ## Tools
 
@@ -49,4 +55,4 @@ The dataset  obtained from the New York subway MTA (http://web.mta.info/develope
   
 
 ## Communication
-** insert link to ppt **
+--insert link to ppt--
