@@ -16,13 +16,13 @@ The National Information Center (NIC) is providing the latest technology service
 
 ## Tools
 
-* Technologies:
+* Technologies
   * SQL 
   * SQLite
   * Python
   * Jupyter Notebook
   
-* Libraries:
+* Libraries
   * NumPy
   * Pandas
   * Matplotlib
