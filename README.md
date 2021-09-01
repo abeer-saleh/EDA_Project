@@ -15,7 +15,7 @@ The significance provided from this Exploratory Data Analysis which is as follow
 * Better Customer Service
 
 ## Data Description
-The dataset  obtained from the New York subway MTA (http://web.mta.info/developers/turnstile.html.)
+The dataset  obtained from the New York subway MTA (http://web.mta.info/developers/turnstile.html.) which is updated each Saturday
 
 * Features Description:
 
@@ -34,9 +34,7 @@ The dataset  obtained from the New York subway MTA (http://web.mta.info/develope
   ### Scope
   
   
-  Saturday, August 28, 2021
-  Saturday, August 21, 2021
-  Saturday, August 14, 2021
+  From August 14 to 28 of 2021
   
   We used the most recent dataset to be up-to-date
 
