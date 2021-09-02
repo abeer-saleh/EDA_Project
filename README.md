@@ -20,18 +20,18 @@ The dataset obtained from the New York subway Metropolitan Transportation Author
 
  |Features|Description                                                                         |  Type |
  |-------|--------------------------------------------------------------------------------------|--- |
- |                                                                                             | object |
- | C/A |Control Area (e.g., A002)                                                             | object |
- | UNIT | Remote Unit for a station (e.g., R051)                                               | object |
- | SCP | Subunit Channel Position represents an specific address for a device (e.g., 02-00-00) | object | 
- | STATION | Represents the station name the device is located at                              | object |
- | LINENAME | Represents all train lines that can be boarded at this station                   | object |
- | DIVISION | Represents the Line originally the station belonged to BMT,IRT, or IND           | object |
- | DATE | Represents the date (MM-DD-YY)                                                       | object |
- | TIME | Represents the time (hh:mm:ss) for a scheduled audit event                           | object |
- | DESC | Represent the "REGULAR" scheduled audit event (Normally occurs every 4 hours)        | object |
- | ENTRIES | The comulative entry register value for a device                                  | int64  |
- | EXITS | The cumulative exit register value for a device                                     | int64  |
+ |                                                                                             | Object |
+ | C/A |Control Area (e.g., A002)                                                             | Object |
+ | UNIT | Remote Unit for a station (e.g., R051)                                               | Object |
+ | SCP | Subunit Channel Position represents an specific address for a device (e.g., 02-00-00) | Object | 
+ | STATION | Represents the station name the device is located at                              | Object |
+ | LINENAME | Represents all train lines that can be boarded at this station                   | Object |
+ | DIVISION | Represents the Line originally the station belonged to BMT,IRT, or IND           | Object |
+ | DATE | Represents the date (MM-DD-YY)                                                       | Object |
+ | TIME | Represents the time (hh:mm:ss) for a scheduled audit event                           | Object |
+ | DESC | Represent the "REGULAR" scheduled audit event (Normally occurs every 4 hours)        | Object |
+ | ENTRIES | The comulative entry register value for a device                                  | Int64  |
+ | EXITS | The cumulative exit register value for a device                                     | Int64  |
 
 
 
