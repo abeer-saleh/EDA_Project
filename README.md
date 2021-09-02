@@ -33,14 +33,13 @@ The dataset obtained from the New York subway Metropolitan Transportation Author
   * EXITS = The cumulative exit register value for a device
 
 
- * # of features/columns = 
- * # of rows = 
- * type for each feature/columns
+
 
   ### Scope
   
-  Our scope was the most recent three months from August 14 to ??  of 2021, we used the most recent datasets to take an apropriate decision and be up-to-date
-  *
+  Our scope was the most recent three months from August 14 to June  of 2021, we used the most recent datasets to take an apropriate decision and be up-to-date
+  Thed dataset contains 580895 rows × 11 columns
+  * type for each feature/columns
   *
   *
 
