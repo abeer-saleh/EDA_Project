@@ -18,7 +18,7 @@ The significance provided from this Exploratory Data Analysis which is as follow
 ## Data Description
 The dataset obtained from the New York subway Metropolitan Transportation Authority (MTA) (http://web.mta.info/developers/turnstile.html.) which is updated each Saturday
 
- |Features Description                                                                         | Features Type |
+ |Features Description                                                                         |  Type |
  |---------------------------------------------------------------------------------------------|--- |
  |                                                                                             | object |
  | C/A = Control Area (e.g., A002)                                                             | object |
