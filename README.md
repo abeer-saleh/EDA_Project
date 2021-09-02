@@ -10,8 +10,8 @@ The National Information Center (NIC) is providing the latest technology service
 -- problem or oppourtinity -- 
 
 The significance provided from this Exploratory Data Analysis which is as follows:
-* Reducing cost
-* Save effort
+* Reducing Cost
+* Save Effort
 * Support Decision Making
 * Better Customer Service
 
