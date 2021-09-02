@@ -1,3 +1,6 @@
+![1543950](https://user-images.githubusercontent.com/79164554/131896579-3eebb7d8-3036-41a4-b872-c7842f9a7fbf.jpeg)
+
+
 # Project 01: Exploratory Data Analysis (EDA)
 
 #### Name: Abeer Alruwayti
