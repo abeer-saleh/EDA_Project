@@ -46,8 +46,9 @@ In this project, I plan to use the New York subway Metropolitan Transportation A
 
   ### Scope
   
- The scope of this project was the most recent three months from August to June of 2021, because we used the most recent datasets to take an apropriate decision and be up-to-date.
-  The dataset contains 580895 rows × 11 columns
+ The scope of this project was the most recent three months from June to August of 2021,
+ to take an appropriate decisions from up-to-date datasets.
+ The dataset contains 580895 rows × 11 columns
  
 
 ## Tools
