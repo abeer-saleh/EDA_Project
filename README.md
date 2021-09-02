@@ -18,20 +18,20 @@ The significance provided from this Exploratory Data Analysis which is as follow
 ## Data Description
 The dataset obtained from the New York subway Metropolitan Transportation Authority (MTA) (http://web.mta.info/developers/turnstile.html.) which is updated each Saturday
 
- |Features Description                                                                         |  Type |
- |---------------------------------------------------------------------------------------------|--- |
+ |Features|Description                                                                         |  Type |
+ |-------|--------------------------------------------------------------------------------------|--- |
  |                                                                                             | object |
- | C/A = Control Area (e.g., A002)                                                             | object |
- | UNIT = Remote Unit for a station (e.g., R051)                                               | object |
- | SCP = Subunit Channel Position represents an specific address for a device (e.g., 02-00-00) | object | 
- | STATION = Represents the station name the device is located at                              | object |
- | LINENAME = Represents all train lines that can be boarded at this station                   | object |
- | DIVISION = Represents the Line originally the station belonged to BMT,IRT, or IND           | object |
- | DATE = Represents the date (MM-DD-YY)                                                       | object |
- | TIME = Represents the time (hh:mm:ss) for a scheduled audit event                           | object |
- | DESC = Represent the "REGULAR" scheduled audit event (Normally occurs every 4 hours)        | object |
- | ENTRIES = The comulative entry register value for a device                                  | int64  |
- | EXITS = The cumulative exit register value for a device                                     | int64  |
+ | C/A |Control Area (e.g., A002)                                                             | object |
+ | UNIT | Remote Unit for a station (e.g., R051)                                               | object |
+ | SCP | Subunit Channel Position represents an specific address for a device (e.g., 02-00-00) | object | 
+ | STATION | Represents the station name the device is located at                              | object |
+ | LINENAME | Represents all train lines that can be boarded at this station                   | object |
+ | DIVISION | Represents the Line originally the station belonged to BMT,IRT, or IND           | object |
+ | DATE | Represents the date (MM-DD-YY)                                                       | object |
+ | TIME | Represents the time (hh:mm:ss) for a scheduled audit event                           | object |
+ | DESC | Represent the "REGULAR" scheduled audit event (Normally occurs every 4 hours)        | object |
+ | ENTRIES | The comulative entry register value for a device                                  | int64  |
+ | EXITS | The cumulative exit register value for a device                                     | int64  |
 
 
 
