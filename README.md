@@ -55,6 +55,7 @@ The dataset obtained from the New York subway Metropolitan Transportation Author
   * NumPy
   * Pandas
   * Matplotlib
+  * Seaborn
   
 
 ## Communication
