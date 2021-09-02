@@ -38,8 +38,8 @@ The dataset obtained from the New York subway Metropolitan Transportation Author
 
   ### Scope
   
-  Our scope was the most recent three months from August 14 to June  of 2021, we used the most recent datasets to take an apropriate decision and be up-to-date
-  Thed dataset contains 580895 rows × 11 columns
+  Our scope was the most recent three months from August 14 to June  of 2021, we used the most recent datasets to take an apropriate decision and be up-to-date.
+  The dataset contains 580895 rows × 11 columns
   
  | Features |  Type   |
  | --- | --- |
