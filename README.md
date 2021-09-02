@@ -20,7 +20,7 @@ The dataset obtained from the New York subway Metropolitan Transportation Author
 
  |Features|Description                                                                         |  Type |
  |-------|--------------------------------------------------------------------------------------|--- |
- |                                                                                             | Object |
+ |                                                                                                    |
  | C/A |Control Area (e.g., A002)                                                             | Object |
  | UNIT | Remote Unit for a station (e.g., R051)                                               | Object |
  | SCP | Subunit Channel Position represents an specific address for a device (e.g., 02-00-00) | Object | 
