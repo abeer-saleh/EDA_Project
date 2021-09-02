@@ -19,7 +19,7 @@ The significance provided from this Exploratory Data Analysis which is as follow
 The dataset obtained from the New York subway Metropolitan Transportation Authority (MTA) (http://web.mta.info/developers/turnstile.html.) which is updated each Saturday
 
  |Features Description                                                                         |
- |---------------------------------------------------------------------------------------------|
+ |                                                                                             |
  |                                                                                             |
  | C/A = Control Area (e.g., A002)                                                             |
  | UNIT = Remote Unit for a station (e.g., R051)                                               |
