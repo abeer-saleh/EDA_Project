@@ -42,18 +42,18 @@ The dataset obtained from the New York subway Metropolitan Transportation Author
   Thed dataset contains 580895 rows × 11 columns
   
  | Features   Type   |
- |                    |
- |C/A       | object  |
- |UNIT      | object  |
- |SCP       | object  |
- |STATION   | object  |
- |LINENAME  | object  |
- |DIVISION  | object  |
- |DATE      | object  |
- |TIME      | object  |
- |DESC      | object  |
- |ENTRIES   | int64   |
- |EXITS     | int64   |
+ |                   |
+ |C/A        object  |
+ |UNIT       object  |
+ |SCP        object  |
+ |STATION    object  |
+ |LINENAME   object  |
+ |DIVISION   object  |
+ |DATE       object  |
+ |TIME       object  |
+ |DESC       object  |
+ |ENTRIES    int64   |
+ |EXITS      int64   |
 
 ## Tools
 
