@@ -17,7 +17,7 @@ The significance provided from this Exploratory Data Analysis which is as follow
 
 ## Data Description
 
-In this project, I plan to use the New York subway Metropolitan Transportation Authority (MTA) dataset which contains almost all the useful information needed for this project (http://web.mta.info/developers/turnstile.html.) which is updated each Saturday.
+In this project, I plan to use the New York subway Metropolitan Transportation Authority (MTA) dataset which contains almost all the useful information needed for this project (http://web.mta.info/developers/turnstile.html).
 
 
  |Features|Description                                                                         |  Type |
