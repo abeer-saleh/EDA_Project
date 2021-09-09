@@ -63,8 +63,6 @@ In this project, I plan to use the New York subway Metropolitan Transportation A
   * NumPy
   * Pandas
   * Matplotlib
-  * Seaborn
+  
   
 
-## Communication
---insert link to ppt--
